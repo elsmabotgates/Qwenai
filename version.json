@@ -1,0 +1,10 @@
+{
+  "version": "V2",
+  "lib_url": "https://raw.githubusercontent.com/elsmabotgates/Qwenai/main/libTX.so",
+  "online_update": true,
+  "changelog": [
+    "Improved Performance",
+    "Fixed Bugs",
+    "Better Stability"
+  ]
+}
